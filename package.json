@@ -1,0 +1,20 @@
+{
+  "name": "jetbrains-plugins-locator",
+  "version": "1.0.0",
+  "main": "src/Locator.js",
+  "author": "Christian Nikolov <dev@newton.codes>",
+  "description": "Locate intellij (jetbrains) plugins at plugins.jetbrains.com and get meta info for plugin dependencies.",
+  "keywords": [
+    "intellij",
+    "jetbrains",
+    "plugin"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newtoncodes/jetbrains-plugins-locator"
+  },
+  "bin": {
+    "jetbrains-plugins-locator": "./bin/locator.js"
+  }
+}
